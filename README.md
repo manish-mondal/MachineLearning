@@ -20,3 +20,4 @@ Which algorithm you got better accuracy? Can you justify why?
 Of all the Naive Bayes algorithms, Complement Naive Bayes has the highest accuracy (0.3953 percent).
 SVM's accuracy is lower, at 0.209302.
 Due to the unbalanced nature of the dataset, complement naive bayes provides the highest level of accuracy when compared to other naive bayes algorithms.
+Video Link : https://drive.google.com/file/d/1hg9VVrTEnWEnOdRkqdMzBk5Vr5zgMbwK/view?usp=sharing

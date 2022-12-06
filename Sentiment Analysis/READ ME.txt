@@ -1,0 +1,6 @@
+Sentiment Analysis on Reviews
+
+Manish Mondal
+700713864
+GitHub Link 
+https://github.com/manish-mondal/MachineLearning/tree/main/Sentiment%20Analysis

@@ -1,8 +1,42 @@
 # MachineLearning
 Project Work on Machine Learning
 
+# Project Sentiment Analysis On Review
+Goals and Objectives
+  
+  Motivation:
+  
+        Ratings are subjective in nature as one person if somewhat likes a product and 
+        gives 5 stars and some other person gives five star only when he/she is fully 
+        satisfied with the product. Also one person’s worst rating does not clearly relate 
+        with other person’s worst and vice versa. Hence we need to read actual reviews 
+        to understand overall acceptance of a product.
+        
+   Significance:
+   
+        This will help to remove discrepancy if any between the given user ratings and 
+        the actual sentiment of the product among users
+       
+   Objectives
+   
+        Classify product sentiment based on actual reviews provided by users
+    
+   Features
+        
+        Provide accurate review of a product/business
+    
+Results: 
+  - Performed the testing on 9 combinations of machine learning algorithms like Logistic regression, Naive Bayes, Random Forest, Support Vector Classifier and Gradient     Boost Classifier with Cross validation values of 3,5 and 10.
+  
+  - Able to improve the accuracy from 60% of Logistic Regression to 70% using gradient boost classifier.
 
-# Assignment Two in 
+    
+    ![image](https://user-images.githubusercontent.com/71039262/207977417-88afde0a-c17f-47c2-8f43-3d01856ea067.png)
+
+    
+
+
+# Assignment 2
 
 
 Python programming to create a below chart of the popularity of programming Languages.
